@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.040b4f7f.chunk.css",
+    "main.js": "/static/js/main.b9187186.chunk.js",
+    "main.js.map": "/static/js/main.b9187186.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.22ca8b46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.22ca8b46.js.map",
+    "static/js/2.501ad2a8.chunk.js": "/static/js/2.501ad2a8.chunk.js",
+    "static/js/2.501ad2a8.chunk.js.map": "/static/js/2.501ad2a8.chunk.js.map",
+    "static/js/3.9cc2a671.chunk.js": "/static/js/3.9cc2a671.chunk.js",
+    "static/js/3.9cc2a671.chunk.js.map": "/static/js/3.9cc2a671.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.040b4f7f.chunk.css.map": "/static/css/main.040b4f7f.chunk.css.map",
+    "static/js/2.501ad2a8.chunk.js.LICENSE.txt": "/static/js/2.501ad2a8.chunk.js.LICENSE.txt",
+    "static/media/emerald.152a02a0.jpg": "/static/media/emerald.152a02a0.jpg",
+    "static/media/plumeria.5f9f2d07.jpg": "/static/media/plumeria.5f9f2d07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ca8b46.js",
+    "static/js/2.501ad2a8.chunk.js",
+    "static/css/main.040b4f7f.chunk.css",
+    "static/js/main.b9187186.chunk.js"
+  ]
+}
